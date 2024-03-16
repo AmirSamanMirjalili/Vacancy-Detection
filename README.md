@@ -1,5 +1,5 @@
 ## Vacancy-Detection
-
+![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
 ## Data set :
 
 <a href="https://universe.roboflow.com/test3-jl78w/free-space-2">
