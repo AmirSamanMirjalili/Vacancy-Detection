@@ -1,2 +1,2 @@
 # introduction
-This project objective is detect shelfes product vacancy in retail or big stores
+This project objective is to detect vacany in store's shelfes
