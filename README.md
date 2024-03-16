@@ -1,2 +1,2 @@
 # introduction
-This project objective is to detect vacany in store's shelfes
+This project objective is to detect vacancies in store's shelfes
